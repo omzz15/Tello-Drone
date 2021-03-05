@@ -1,0 +1,6 @@
+takeoff
+forward 40
+right 20
+back 30
+left 20
+land
